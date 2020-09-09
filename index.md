@@ -94,7 +94,7 @@
       <section class="testimonial">
         <div class="row justify-content-center">
           <div class="col-lg-8">
-            <p>"Bekerja dengan dengan hati senag, akan memberikan hasil yang memuaskan."</p>
+            <p>"Bekerja dengan dengan hati senang, akan memberikan hasil yang memuaskan."</p>
           </div>
         </div>
         <div class="row justify-content-center">
